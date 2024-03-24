@@ -1,15 +1,17 @@
 import NavBar from "@/Components/NavBar";
 import Banner from "@/Components/Banner";
-import Album from "@/Components/Album";
 import SideBar from "@/Components/SideBar";
+import Gallary from "@/Components/Gallary";
 export default function Home() {
   return (
-    <div id="root">
+    <div id="root" class="relative">
+      <div id="Layout" class="flex w-full h-screen">
       <NavBar/>
       <SideBar/>
-      <div id ="Main Page" class="w-full h-full">
-        <Banner/>
+      <Gallary/>
       </div>
+      
+
     </div>
     
     
