@@ -1,4 +1,3 @@
-import SideBar from "./components/SideBar";
 import TrendingList from "./components/TrendingList";
 
 export default function Home() {

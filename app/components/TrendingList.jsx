@@ -20,7 +20,7 @@ function TrendingList() {
       </div>
       <div className="grid grid-cols-3 gap-4">
         <div className="bg-gray-400 flex flex-row px-3 py-2 rounded-md">
-          <div>
+          <div className="mr-3">
             <Image
               src="/images/ChungTaCuaTuongLai.jpeg"
               width={100}
@@ -35,7 +35,7 @@ function TrendingList() {
         </div>
         
         <div className="bg-gray-400 flex flex-row px-3 py-2 rounded-md">
-          <div>
+          <div className="mr-3">
             <Image
               src="/images/ChungTaCuaTuongLai.jpeg"
               width={100}
@@ -50,7 +50,7 @@ function TrendingList() {
         </div>
 
         <div className="bg-gray-400 flex flex-row px-3 py-2 rounded-md">
-          <div>
+          <div className="mr-3">
             <Image
               src="/images/ChungTaCuaTuongLai.jpeg"
               width={100}
