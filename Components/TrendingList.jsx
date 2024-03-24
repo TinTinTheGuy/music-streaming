@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-function TrendingList() {
+const TrendingList = () => {
   return (
     <div className="m-10">
       <h2 className="text-2xl mb-2">Trending List</h2>
