@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
    
 
-<header class="fixed items-center flex left-60 top-0 right-0 px-16 z-50 h-16 bg-zinc-400	">
+<header class="fixed items-center flex left-60 top-0 right-0 px-16 z-50 h-16 bg-purple-900	">
   <div id="level" class="relative w-full z-10 flex items-center justify-between">
     <div id="level-left" class="flex grow mr-2.5 items-center justify-start">
     <div id="setting-tem" class="relative mr-2.5">
