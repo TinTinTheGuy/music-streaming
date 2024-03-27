@@ -1,5 +1,4 @@
 import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const SideBar = () => {
   return (
         <aside id="sidebar-logo" class="z-50 fixed w-60 h-screen  pt-16 pb-12 bg-bgDarkBg	" aria-label="Sidebar">

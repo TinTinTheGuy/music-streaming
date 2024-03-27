@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <body class="m-0 p-0">
     <div id="root" class="relative">
-      <div id="Layout" class="flex w-full h-screen">
+      <div id="Layout" class="flex w-full h-screen ">
       <NavBar/>
       <SideBar/>
       <Gallary/>

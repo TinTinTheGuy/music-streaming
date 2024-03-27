@@ -1,13 +1,14 @@
 import React from 'react'
 import Artist from './Artist'
+import TrendingList from './TrendingList'
 
 const Gallary = () => {
   return (
-    <div class="fixed	ml-60 w-full h-full ">
-      <main class="absolute inset-0	-mr-1.5 mb-0 px-7	 ">
+    <div class="static	ml-60 w-full h-full  ">
+      <main class="ml-60  absolute inset-0	-mr-1.5 mb-0 px-7	 ">
         <div id="Home-Content" class="mt-16 h-full	">
           <div id="Home-Container" class="m-auto relative w-full ">
-            <div id="Gallary" class="pt-8	pb-6 	fixed">
+            <div id="Gallary" class="pt-8	pb-6 static	">
               <div id="Gallary-Container" class="items-center justify-center flex relative  ">
                 <div id="Button" class="l-0 absolute h-full z-10 cursor-pointer">
                   <button class="left-6	">
@@ -65,6 +66,9 @@ const Gallary = () => {
 
               </div>         
                <Artist/>
+               <TrendingList/>
+               
+
 
 
 
