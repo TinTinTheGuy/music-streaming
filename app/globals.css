@@ -21,9 +21,3 @@ body {
   background: white
       
 }
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
