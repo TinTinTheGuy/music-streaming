@@ -4,8 +4,8 @@ import Image from "next/image";
 
 const TrendingList = () => {
   return (
-    <div className="m-10">
-      <h2 className="text-2xl mb-2">Trending List</h2>
+    <div id="Trending-List" className="mt-12">
+      <h2 className="text-2xl mb-5">Trending List</h2>
 
       <div className="flex flex-wrap items-center justify-between mx-auto py-4">
         <div className="flex flex-row gap-4">
@@ -18,6 +18,7 @@ const TrendingList = () => {
 
         <Link href="#">See All </Link>
       </div>
+      <div></div>
       <div className="grid grid-cols-3 gap-4">
         <div className="bg-gray-400 flex flex-row px-3 py-2 rounded-md">
           <div className="mr-3">
