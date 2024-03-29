@@ -17,9 +17,19 @@ const Radio = () => {
         <a href="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="no-underline">
           <div class="block relative overflow-hidden rounded aspect-square">
             <figure class="h-full w-full">
-              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full object-cover" />
+              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full rounded-full" />
             </figure>
           </div>
+          <div>
+          <h4 class="text-bgDarkInactive    text-center ">
+              Album
+        
+              </h4> 
+
+              <p  class="text-bgDarkInactive    text-center">
+                    Testing
+              </p>
+              </div>
         </a>
       </div>
     </div>
@@ -29,9 +39,19 @@ const Radio = () => {
         <a href="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="no-underline">
           <div class="block relative overflow-hidden rounded aspect-square">
             <figure class="h-full w-full">
-              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full object-cover" />
+              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full rounded-full" />
             </figure>
           </div>
+          <div>
+          <h4 class="text-bgDarkInactive    text-center ">
+              Album
+        
+              </h4> 
+
+              <p  class="text-bgDarkInactive    text-center">
+                    Testing
+              </p>
+              </div>
         </a>
       </div>
     </div>
@@ -41,9 +61,19 @@ const Radio = () => {
         <a href="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="no-underline">
           <div class="block relative overflow-hidden rounded aspect-square">
             <figure class="h-full w-full">
-              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full object-cover" />
+              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full rounded-full" />
             </figure>
           </div>
+          <div>
+          <h4 class="text-bgDarkInactive    text-center ">
+              Album
+        
+              </h4> 
+
+              <p  class="text-bgDarkInactive    text-center">
+                    Testing
+              </p>
+              </div>
         </a>
       </div>
     </div>
@@ -53,21 +83,41 @@ const Radio = () => {
         <a href="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="no-underline">
           <div class="block relative overflow-hidden rounded aspect-square">
             <figure class="h-full w-full">
-              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full object-cover" />
+              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full rounded-full" />
             </figure>
           </div>
+          <div>
+          <h4 class="text-bgDarkInactive    text-center ">
+              Album
+        
+              </h4> 
+
+              <p  class="text-bgDarkInactive    text-center">
+                    Testing
+              </p>
+              </div>
         </a>
       </div>
     </div>
     
-    <div id="items" class="pr-6">
+    <div id="items" class="">
       <div id="card" class="w-full">
         <a href="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="no-underline">
           <div class="block relative overflow-hidden rounded aspect-square">
             <figure class="h-full w-full">
-              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full object-cover" />
+              <img src="https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg" class="h-full w-full rounded-full" />
             </figure>
           </div>
+          <div>
+          <h4 class="text-bgDarkInactive    text-center ">
+              Album
+        
+              </h4> 
+
+              <p  class="text-bgDarkInactive    text-center">
+                    Testing
+              </p>
+              </div>
         </a>
       </div>
     </div>

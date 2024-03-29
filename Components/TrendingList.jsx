@@ -18,8 +18,9 @@ const TrendingList = () => {
 
         <Link href="#">See All </Link>
       </div>
+      <div></div>
       <div className="grid grid-cols-3 gap-4">
-        <div className="bg-gray-400 flex flex-row pr-3 py-2 rounded-md">
+        <div className="bg-gray-400 flex flex-row px-3 py-2 rounded-md">
           <div className="mr-3">
             <Image
               src="/images/ChungTaCuaTuongLai.jpeg"
