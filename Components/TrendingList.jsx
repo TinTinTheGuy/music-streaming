@@ -9,11 +9,13 @@ const TrendingList = () => {
 
       <div className="flex flex-wrap items-center justify-between mx-auto py-4">
         <div className="flex flex-row gap-4">
-            <Link href="/" className="rounded-md border-slate-200 bg">
-                <span className="block bg-violet-600 hover:bg-violet-700 rounded-full px-6">All</span>
-            </Link>
-            <Link href="#">Viet Nam</Link>
-            <Link href="#">Quoc Te</Link>
+          <Link href="/" className="rounded-md border-slate-200 bg">
+            <span className="block bg-violet-600 hover:bg-violet-700 rounded-full px-6">
+              All
+            </span>
+          </Link>
+          <Link href="#">Viet Nam</Link>
+          <Link href="#">Quoc Te</Link>
         </div>
 
         <Link href="#">See All </Link>
@@ -34,7 +36,7 @@ const TrendingList = () => {
             <div>2 days ago</div>
           </div>
         </div>
-        
+
         <div className="bg-gray-400 flex flex-row px-3 py-2 rounded-md">
           <div className="mr-3">
             <Image
@@ -67,6 +69,6 @@ const TrendingList = () => {
       </div>
     </div>
   );
-}
+};
 
 export default TrendingList;
