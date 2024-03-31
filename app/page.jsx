@@ -6,17 +6,13 @@ import Gallary from "@/Components/Gallary";
 export default function Home() {
   return (
     <body class="m-0 p-0">
-    <div id="root" class="relative">
-      <div id="Layout" class="flex w-full h-full ">
-      <NavBar/>
-      <SideBar/>
-      <Gallary/>
+      <div id="root" class="relative">
+        <div id="Layout" class="flex w-full h-full ">
+          <NavBar />
+          <SideBar />
+          <Gallary />
+        </div>
       </div>
-      
-
-    </div>
     </body>
-    
-    
   );
 }
