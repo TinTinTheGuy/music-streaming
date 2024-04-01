@@ -37,6 +37,21 @@ const Musiclist = () => {
                     </figure>
 
                   </div>
+                  <div class="overflow-hidden flex w-full">
+                    <div class="flex items-center ">
+                      <a class="flex items-center">
+                        <span class="fixed ">
+                          MUON VAY MA SAO CON
+                        </span>
+                        
+
+                      </a>
+                      
+
+                    </div>
+                    
+
+                  </div>
 
                 </div>
 
